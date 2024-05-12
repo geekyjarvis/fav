@@ -1,0 +1,18 @@
+#EXTM3U
+#EXT-X-VERSION:3
+
+# 240p
+#EXT-X-STREAM-INF:BANDWIDTH=150000,RESOLUTION=426x240
+https://pw.jarviis.workers.dev?v=https://d1d34p8vz63oiq.cloudfront.net/f9ecf910-8d5e-40f2-ad06-5de9a9e092dc/master.mpd&quality=240
+
+# 360p
+#EXT-X-STREAM-INF:BANDWIDTH=400000,RESOLUTION=640x360
+https://pw.jarviis.workers.dev?v=https://d1d34p8vz63oiq.cloudfront.net/f9ecf910-8d5e-40f2-ad06-5de9a9e092dc/master.mpd&quality=360
+
+# 480p
+#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=854x480
+https://pw.jarviis.workers.dev?v=https://d1d34p8vz63oiq.cloudfront.net/f9ecf910-8d5e-40f2-ad06-5de9a9e092dc/master.mpd&quality=480
+
+# 720p
+#EXT-X-STREAM-INF:BANDWIDTH=1500000,RESOLUTION=1280x720
+https://pw.jarviis.workers.dev?v=https://d1d34p8vz63oiq.cloudfront.net/f9ecf910-8d5e-40f2-ad06-5de9a9e092dc/master.mpd&quality=720
