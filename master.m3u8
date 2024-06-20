@@ -2,7 +2,7 @@
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:3
 #EXT-X-MEDIA-SEQUENCE:0
-#EXT-X-KEY:METHOD=AES-128,URI="https://dnqe0v482iyb1.cloudfront.net/spees/w/o/63da7521e4b0c8bccdfc88af/v/644dbcb4e4b074f0b5a26166/u/pu/t/e4ae2541c70a71f69aec4c404dc5556e/p/assets/videos/63da7521e4b0c8bccdfc88af/2023/04/30/644dbcb4e4b074f0b5a26166/k/timestamp",IV=0x496daa1c6914000e408c65cead91fc29
+#EXT-X-KEY:METHOD=AES-128,URI="https://raw.githubusercontent.com/jarvistuts/fav/main/enc.key",IV=0x496daa1c6914000e408c65cead91fc29
 #EXTINF:2.400000,
 https://dnqe0v482iyb1.cloudfront.net/spees/w/o/63da7521e4b0c8bccdfc88af/v/644dbcb4e4b074f0b5a26166/u/pu/t/e4ae2541c70a71f69aec4c404dc5556e/p/assets/videos/63da7521e4b0c8bccdfc88af/2023/04/30/644dbcb4e4b074f0b5a26166/hls_500k_000.ts
 #EXTINF:2.400000,
